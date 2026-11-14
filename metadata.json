@@ -1,0 +1,6 @@
+{
+  "name": "FF Point Table Studio",
+  "description": "Free Fire esports point table generator with Google Sheets paste import, manual crown and cup awards for all 12 teams, custom gradient and image backgrounds, saved templates, and high-resolution PNG export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
